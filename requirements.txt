@@ -1,0 +1,5 @@
+youtube_transcript_api   #python api that get that give subtitles for given youtube vedio
+streamlit  
+google-generativeai  
+python-dotenv
+pathlib
