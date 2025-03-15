@@ -9,13 +9,13 @@ An AI-driven web application that helps users quickly summarize YouTube videos b
   - Copy AI-generated summaries to the clipboard with a single click.
   - Access raw transcripts for comprehensive content review.
 
+
+
+
 ## Installation 🛠️
 
 To install the required dependencies, run:
 ```bash
 pip install -r requirements.txt
 
-## To run Application🛠️
 
-```bash
-streamlit run app.py
